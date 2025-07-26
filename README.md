@@ -1,8 +1,7 @@
-# 🎞️ PhotoBooth - Next.js Fun with Filters & Collage!
+# 🎞️ PhotoMizz - Next.js Fun with Filters & Collage!
 
 A high-fidelity Next.js-based PhotoBooth app that lets users capture selfies, apply retro & modern filters, and generate photo collages — directly from your browser.
 
-🔗 Live Preview: [https://photobooth-azure-seven.vercel.app](https://photobooth-azure-seven.vercel.app)
 
 ## ✨ Key Features
 
@@ -21,7 +20,7 @@ Follow these steps to get the app running on your machine:
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/yourusername/photobooth-app.git
+git clone https://github.com/yourusername/photomizz-app.git
 cd photobooth-app
 
 npm install
